@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbinari
+- 👋 Hi, I’m @dbinario
 - Este es mi repositorio para pruebas y algunas cosas que se me vayan ocurriendo.
 
 <!---
